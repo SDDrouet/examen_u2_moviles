@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [
   {
     "codigo": 1,
@@ -16,6 +15,3 @@
     "precio": 31
   }
 ]
-=======
-[{"codigo":1,"descripcion":"cebollas","precio":0.42},{"codigo":6,"descripcion":"zanahoria","precio":2.99},{"codigo":378,"descripcion":"pera","precio":23.2}]
->>>>>>> c4d3420ac56e2d69d2539b724f2ef1b4d5faf498
